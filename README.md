@@ -9,15 +9,3 @@ I work/cuddle/fool around on/with:
 🌐 Kubernetes and 🐳 Docker
 
 🛸 Machine Learning
-
-and I’m interested in many things, including:
-
-📚 reading books
-
-⚽ soccer with friends
-
-🥁 drums
-
-🇮🇹 learning Italian
-
-👨‍🍳 cook vegetarian food
