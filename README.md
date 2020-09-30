@@ -1,12 +1,23 @@
-### Hi there 👋
+![amalfi coast 2018](https://raw.githubusercontent.com/JWDobken/JWDobken/master/0.jpg)
 
-Here are some ideas to get you started:
+### Hi! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I work/cuddle/fool around on/with:
+
+🐍 Python and 🎹 Scala applications
+
+🌐 Kubernetes and 🐳 Docker
+
+🛸 Machine Learning
+
+and I’m interested in many things, including:
+
+📚 reading books
+
+⚽ soccer with friends
+
+🥁 drums
+
+🇮🇹 learning Italian
+
+👨‍🍳 cook vegetarian food
