@@ -16,6 +16,8 @@ and...
 
 🍝 eating self-made pasta
 
+🇮🇹 learning the italian language
+
 🍻 brewing beers
 
 📚 reading books
