@@ -14,7 +14,7 @@ and...
 
 🍼 being a father
 
-🍝 making and eating pasta
+🍝 eating self-made pasta
 
 🍻 brewing beers
 
