@@ -12,13 +12,13 @@ I am a developer / engineer and I keep myself busy with many things including:
 
 and...
 
-🍼 being a father
-
-🍝 eating self-made pasta
+🍳 cook vegetarian
 
 🇮🇹 learning the italian language
 
 🍻 brewing beers
+
+🥁 drums
 
 📚 reading books
 
