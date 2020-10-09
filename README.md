@@ -2,7 +2,7 @@
 
 Heee welcome!! Nice to have you here 👋
 
-I am a developer / engineer and I keep myself busy with many things including:
+I'm Joost (like toast with a _J_); a freelance data / devops engineer and developer and I keep myself busy with many things including:
 
 🐍 Python and 🎹 Scala applications
 
