@@ -2,7 +2,7 @@
 
 Heee welcome!! Nice to have you here 👋
 
-I'm Joost (like toast with a "_J_"); a freelance data / devops engineer and developer.
+I'm Joost, like toast with a "_J_", freelance data / devops engineer and developer.
 
 I keep myself busy with many things including:
 
