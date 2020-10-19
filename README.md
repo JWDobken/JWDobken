@@ -2,7 +2,7 @@
 
 Heee welcome!! Nice to have you here 👋
 
-I'm Joost, like toast with a "_J_", freelance data / devops engineer and developer.
+I'm Joost, freelance data / devops engineer and developer.
 
 I keep myself busy with many things including:
 
@@ -14,14 +14,8 @@ I keep myself busy with many things including:
 
 and...
 
-🍳 cook vegetarian
-
-🇮🇹 learning the italian language
-
-🍻 brewing beers
+🇮🇹 learning italian
 
 🥁 drums
-
-📚 reading books
 
 ⚽ soccer with friends
