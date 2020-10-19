@@ -1,8 +1,8 @@
 ![amalfi coast 2018](https://raw.githubusercontent.com/JWDobken/JWDobken/master/0.jpg)
 
-Heee welcome!! Nice to have you here 👋
+Welcome to my profile 👋
 
-I'm Joost, freelance data / devops engineer and developer.
+I'm Joost, freelance engineer and developer.
 
 I keep myself busy with many things including:
 
